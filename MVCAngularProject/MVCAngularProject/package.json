@@ -1,0 +1,15 @@
+{
+  "name": "mvcangularproject",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-typescript": "^3.1.7",
+    "npmlog": "^4.1.0",
+    "tsify": "^3.0.1",
+    "typescript": "^2.3.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

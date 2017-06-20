@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "files": [
+    "src/*",
+    "src/**/*"
+  ]
+}
